@@ -6,7 +6,7 @@
 
 ## Problem Description:
 
-Create A basic node application, that makes a CRUD operation (create, read, update, delete) into a file database.json.
+
 
 ## How will I complete this project?
 
