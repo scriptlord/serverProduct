@@ -18,7 +18,7 @@
   - `GET` Request which returns all the products in your database.json data
   - `POST` Request which adds data to your database.json file (Note: If there is no database.json on post, create one dynamically).
   - `PUT` or `PATCH` Request which updates fields of a particular data using the id in database.json
-  - `DELETE` Request which removes a particular data from your database.json using the id
+  - `DELETE` Request which removes a particular data from your database.json using the id.
 - Data format example:
 
 ```
